@@ -1,0 +1,22 @@
+{
+  "name": "optipad",
+  "version": "1.0.0",
+  "description": "smart markdown memopad with todo, calender, and reminder",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Diwamoto/optipad",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "daiki iwamoto",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^21.1.1"
+  }
+}
