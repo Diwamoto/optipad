@@ -17,6 +17,6 @@
   "author": "daiki iwamoto",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^24.0.0"
+    "electron": "^24.3.0"
   }
 }
